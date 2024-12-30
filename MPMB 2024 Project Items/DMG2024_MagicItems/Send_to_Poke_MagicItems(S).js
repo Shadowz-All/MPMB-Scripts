@@ -62,63 +62,63 @@ MagicItemsList["scroll of protection"] = {
 		"26-35\tDragons\t81-85\tOozes",
 		"36-45\tElementals\t86-90\tPlants",
 		"46-50\tHumonoids\t91-00\tUndead",
-	].join("\n") + "\n Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, creatures of the specified type can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends.\n As a Magic action, a creature within 5 feet of the Emanation can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the Emanation.\n",
+	].join("\n") + "\n Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, creatures of the specified type canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends.\n As a Magic action, a creature within 5 feet of the Emanation can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the Emanation.\n",
 	choices: ["Aberrations", "Beasts", "Celestials", "Constructs", "Dragons", "Elementals", "Humanoids", "Fey", "Fiends", "Giants", "Monstrosities", "Oozes", "Plants", "Undead"],
 	"aberrations": {
 		name: "Scroll of Protection from Aberrations",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Aberrations can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Aberrations canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"beasts": {
 		name: "Scroll of Protection from Beasts",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Beasts can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Beasts canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"celestials": {
 		name: "Scroll of Protection from Celestials",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Celestials can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Celestials canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"constructs": {
 		name: "Scroll of Protection from Constructs",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Constructs can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Constructs canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"dragons": {
 		name: "Scroll of Protection from Dragons",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Dragons can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Dragons canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"elementals": {
 		name: "Scroll of Protection from Elementals",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Elementals can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Elementals canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"humanoids": {
 		name: "Scroll of Protection from Humanoids",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Humanoids can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Humanoids canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"fey": {
 		name: "Scroll of Protection from Fey",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Fey can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Fey canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"fiends": {
 		name: "Scroll of Protection from Fiends",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Fiends can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Fiends canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"giants": {
 		name: "Scroll of Protection from Giants",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Giants can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Giants canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"monstrosities": {
 		name: "Scroll of Protection from Monstrosities",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Monstrosities can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Monstrosities canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"oozes": {
 		name: "Scroll of Protection from Oozes",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Oozes can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Oozes canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"plants": {
 		name: "Scroll of Protection from Plants",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Plants can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Plants canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	},
 	"undead": {
 		name: "Scroll of Protection from Undead",
-		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Undead can’t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
+		description: "Using a Magic action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, Undead canâ€™t enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends."
 	}
 };
 MagicItemsList["scroll of titan summoning"] = {
@@ -128,7 +128,7 @@ MagicItemsList["scroll of titan summoning"] = {
 	rarity: "legendary",
 	magicItemTable: "?",
 	description: "When you take a Magic action to read this scroll, a particular titan named in the scroll appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself. The titan is hostile towards all others and disappears when it drops to 0 HP. The space summoned must be large enough to contain it, or it fails.",
-	descriptionFull: "When you take a Magic action to read this scroll, a particular titan named in the scroll appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself. The DM picks a suitable titan or determines it randomly by rolling on the table below (see the Monster Manual for the creature’s stat block).\n\n" + [
+	descriptionFull: "When you take a Magic action to read this scroll, a particular titan named in the scroll appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself. The DM picks a suitable titan or determines it randomly by rolling on the table below (see the Monster Manual for the creatureâ€™s stat block).\n\n" + [
 		toUni("d100\tTitan Type\td100\tTitan Type"),
 		"01-15\tAnimal Lord\t61-75\tEmpyrean",
 		"16-30\tBlob of Annihilation\t76-90\tKraken",
@@ -168,7 +168,7 @@ MagicItemsList["sending stones"] = {
 	rarity: "uncommon",
 	magicItemTable: "?",
 	description: "While you touch one of this pair of stones, you can cast Sending from it, targeting the bearer of the other stone. If no creature has the other stone, the spell won't cast. Once it is cast, neither stone can be used again until the next dawn. Sending allows each bearer to communicate up to 25 words to a creature you have met or described to you by someone who has met it.",
-	descriptionFull: "Sending Stones come in pairs, with each stone carved to match the other so the pairing is easily recognized. While you touch one stone, you can cast Sending from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone, and you don’t cast the spell.\n   Once Sending is cast using either stone, the stones can’t be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.",
+	descriptionFull: "Sending Stones come in pairs, with each stone carved to match the other so the pairing is easily recognized. While you touch one stone, you can cast Sending from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone, and you donâ€™t cast the spell.\n   Once Sending is cast using either stone, the stones canâ€™t be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.",
 	spellcastingBonus: [{
 		name: "To other stone bearer only",
 		spells: ["sending"],
@@ -202,7 +202,7 @@ MagicItemsList["shield, +1, +2, or +3"] = {
 	source: [["DMG2024", 303]],
 	type: "shield",
 	description: "While holding this Shield, you have a bonus to AC determined by the Shield's rarity, in addition to the Shield's normal bonus to AC.",
-	descriptionFull: "While holding this Shield, you have a bonus to Armor Class determined by the Shield’s rarity, in addition to the Shield’s normal bonus to AC.",
+	descriptionFull: "While holding this Shield, you have a bonus to Armor Class determined by the Shieldâ€™s rarity, in addition to the Shieldâ€™s normal bonus to AC.",
 	allowDuplicates: true,
 	choices: ["+1 Shield (Uncommon)", "+2 Shield (Rare)", "+3 Shield (Very Rare)"],
 	"+1 shield (uncommon)": {
@@ -239,8 +239,8 @@ MagicItemsList["shield of expression"] = {
 	magicItemTable: "?",
 	type: "shield",
 	rarity: "common",
-	description: "The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a Bonus Action to alter the face’s expression.",
-	descriptionFull: "The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a Bonus Action to alter the face’s expression.",
+	description: "The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a Bonus Action to alter the faceâ€™s expression.",
+	descriptionFull: "The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a Bonus Action to alter the faceâ€™s expression.",
 	weight: 6,
 	shieldAdd: "Shield of Expression",
 	action: [["bonus action", ""]]
@@ -268,7 +268,7 @@ MagicItemsList["shield of the cavalier"] = {
 	description: "While holding this Shield, you have a +2 bonus to AC. This bonus is in addition to the Shield's normal bonus to AC.",
 	descriptionFull: "While holding this Shield, you have a +2 bonus to AC. This bonus is in addition to the Shields normal bonus to AC. The Shield has additional properties that you can use while holding it." +
 		"\n   " + toUni("Forceful Bash") + ". When you take the Attack action, you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your Proficiency Bonus and Strength modifier to the attack roll. On a hit, the Shield deals Force damage to the target equal to 2d6 + 2 + your Strength modifier, and if the target is a creature, you can push it up to 10 feet directly away from yourself. If the creature is your size or smaller, you can also knock it down, giving it the Prone condition.'" +
-		"\n   " + toUni("Protective Field") + ". As a Reaction, when you or an ally you can see within 5 feet of you is targeted by an attack or makes a saving throw against an area of effect, you can use the Shield to create an immobile 5-foot Emanation originating from you. When the Emanation appears, any creatures or objects not fully contained within it are pushed into the nearest unoccupied spaces outside it. The attack or area of effect that triggered the Reaction has no effect on creatures and objects inside the Emanation, which lasts as long as you maintain Concentration, up to 1 minute. Nothing can pass into or out of the Emanation. A creature or object inside the Emanation can’t be damaged by attacks or effects originating from outside, nor can a creature inside the Emanation damage anything outside it. Once this property is used, it can’t be used again until the next dawn.",
+		"\n   " + toUni("Protective Field") + ". As a Reaction, when you or an ally you can see within 5 feet of you is targeted by an attack or makes a saving throw against an area of effect, you can use the Shield to create an immobile 5-foot Emanation originating from you. When the Emanation appears, any creatures or objects not fully contained within it are pushed into the nearest unoccupied spaces outside it. The attack or area of effect that triggered the Reaction has no effect on creatures and objects inside the Emanation, which lasts as long as you maintain Concentration, up to 1 minute. Nothing can pass into or out of the Emanation. A creature or object inside the Emanation canâ€™t be damaged by attacks or effects originating from outside, nor can a creature inside the Emanation damage anything outside it. Once this property is used, it canâ€™t be used again until the next dawn.",
 	attunement: true,
 	weight: 6,
 	shieldAdd: "Shield of the Cavalier",
@@ -381,7 +381,7 @@ MagicItemsList["spell scroll"] = {
 	source: [["DMG2024", 305]],
 	type: "scroll",
 	description: "If the spell on this scroll is on your spell list, you can cast it without its Material components using its normal casting time. If the spell is of a higher level than you can cast, you can make an ability check using my spellcasting ability (DC = 10 + spell level). The spell level on the scroll determins saving throw DC, attack bonus, and rarity.",
-	descriptionFull: "A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn’t lost.\n   If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell’s level. On a failed check, the spell disappears from the scroll with no other effect.\n   The level of the spell on the scroll determines the spell’s saving throw DC and attack bonus, as well as the scroll’s rarity, as shown in the following table.\n\n" + toUni("Spell Level\tRarity\t\tSave DC\tAttack Bonus") + [
+	descriptionFull: "A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spellâ€™s normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isnâ€™t lost.\n   If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spellâ€™s level. On a failed check, the spell disappears from the scroll with no other effect.\n   The level of the spell on the scroll determines the spellâ€™s saving throw DC and attack bonus, as well as the scrollâ€™s rarity, as shown in the following table.\n\n" + toUni("Spell Level\tRarity\t\tSave DC\tAttack Bonus") + [
 		"\nCantrip\tCommon  \t13\t+5",
 		"1  \tCommon  \t13\t+5",
 		"2  \tUncommon\t13\t+5",
@@ -392,7 +392,7 @@ MagicItemsList["spell scroll"] = {
 		"7  \tVery rare    \t18\t+10",
 		"8  \tVery rare    \t18\t+10",
 		"9  \tLegendary  \t19\t+11"
-	].join("\n") + "\n\nA Wizard spell on a Spell Scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.",
+	].join("\n") + "\n\nA Wizard spell on a Spell Scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + theÂ spell'sÂ level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.",
 	allowDuplicates: true,
 	calcChanges: {
 		spellAdd: [
@@ -615,7 +615,7 @@ MagicItemsList["spirit board"] = {
 	rarity: "very rare",
 	magicItemTable: "?",
 	description: "This board has 3 charges and regains 1 expended charge daily at dawn. While touching the planchette, you can take 1 minute to cast Augury (1 charge) or Commune (3 charges).",
-	descriptionFull: "This board has 3 charges and regains 1 expended charge daily at dawn. While touching the planchette, you can take 1 minute to cast one of the spells on the table below. The table indicates how many charges you must expend to cast the spell. As you cast the spell, you call on the spirits of the dead to guide the planchette across the board’s surface, answering your questions by pointing to the letters or words on the board.\n" +
+	descriptionFull: "This board has 3 charges and regains 1 expended charge daily at dawn. While touching the planchette, you can take 1 minute to cast one of the spells on the table below. The table indicates how many charges you must expend to cast the spell. As you cast the spell, you call on the spirits of the dead to guide the planchette across the boardâ€™s surface, answering your questions by pointing to the letters or words on the board.\n" +
 					"\t Spell \t Charge\n \t Augury \t 1\n \t Commune \t 3 ",
 	usages: "3",
 	recovery: "dawn",
@@ -650,7 +650,7 @@ MagicItemsList["staff of birdcalls"] = {
 	type: "staff",
 	rarity: "common",
 	description: "This staff has 10 charges, regaining 1d6+4 at dawn. You can take a Magic action to expend 1 charge to create a sound out to a range of 120 ft: a finch's chirp, raven's caw, duck's quack, chicken's cluck, goose's honk, loon's call, turkey's gobble, seagull's cry, owl's hoot, or an eagle's shriek.",
-	descriptionFull: "This wooden staff is decorated with bird carvings. It has 10 charges. While holding it, you can take a Magic action to expend 1 charge from the staff and cause it to create one of the following sounds, which can be heard out to 120 feet: a finch’s chirp, a raven’s caw, a duck’s quack, a chicken’s cluck, a goose’s honk, a loon’s call, a turkey’s gobble, a seagull’s cry, an owl’s hoot, or an eagle’s shriek.\n   The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff explodes in a harmless cloud of bird feathers and is lost forever.",
+	descriptionFull: "This wooden staff is decorated with bird carvings. It has 10 charges. While holding it, you can take a Magic action to expend 1 charge from the staff and cause it to create one of the following sounds, which can be heard out to 120 feet: a finchâ€™s chirp, a ravenâ€™s caw, a duckâ€™s quack, a chickenâ€™s cluck, a gooseâ€™s honk, a loonâ€™s call, a turkeyâ€™s gobble, a seagullâ€™s cry, an owlâ€™s hoot, or an eagleâ€™s shriek.\n   The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff explodes in a harmless cloud of bird feathers and is lost forever.",
 	weight: 4,
 	usages: 10,
 	recovery: "dawn",
@@ -665,9 +665,9 @@ MagicItemsList["staff of charming"] = {
 	magicItemTable: "?",
 	description: "This staff has 10 charges, regaining 1d8+2 at dawn. If an enchantment spell is cast only on you, you can use the staff to, once per dawn, turn a failed save into a success and as a reaction if you make the save, you can expend 1 charge to turn the spell back on its caster. You can expend 1 charge to cast Charm Person, Command, or Comprehend Languages using your spell save DC.",
 	descriptionFull: "This staff has 10 charges. While holding the staff, you can use any of its properties:\n" +
-		toUni("Cast Spell") + ". You can expend 1 of the staff’s charges to cast Charm Person, Command, or Comprehend Languages from it using your spell save DC.\n"+
+		toUni("Cast Spell") + ". You can expend 1 of the staffâ€™s charges to cast Charm Person, Command, or Comprehend Languages from it using your spell save DC.\n"+
 		toUni("Reflect Enchantment") + ". If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a Reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.\n" +
-		toUni("Resist Enchantment") + ". If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You can’t use this property of the staff again until the next dawn.\n" +
+		toUni("Resist Enchantment") + ". If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You canâ€™t use this property of the staff again until the next dawn.\n" +
 		toUni("Regain Charges") + ". The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff crumbles to dust and is destroyed.",
 	weight: 4,
 	attunement: true,
@@ -957,7 +957,7 @@ MagicItemsList["staff of the adder"] = {
 	rarity: "uncommon",
 	magicItemTable: "?",
 	description: "As a bonus action, you can animate the head of this staff turning it into a vernomous snake for 1 minute or make it inanimate again. While animated, you can use it in melee using your Proficiency Bonus and Wisdom modifier on the attack roll (1d6 piercing + DC 15 Con save or 3d6 poison), but it can be attacked and has AC 15 and 20 HP (full every time). It has Immunity to Poison and Psychic damage. If it reaches 0 HP, the staff is destroyed.",
-	descriptionFull: "As a Bonus Action, you can turn the head of this staff into that of an animate, venomous snake for 1 minute or revert the staff to its inanimate form.\n  When you take the Attack action, you can make one of the attack rolls using the animated snake head, which has a reach of 5 feet. Apply your Proficiency Bonus and Wisdom modifier to the attack roll. On a hit, the target takes 1d6 Piercing damage and 3d6 Poison damage.\n  The snake head can be attacked while it is animate. It has AC 15, HP 20, and Immunity to Poison and Psychic damage. If the head drops to 0 Hit Points, the staff is destroyed. As long as it’s not destroyed, the staff regains all lost Hit Points when it reverts to its inanimate form.",
+	descriptionFull: "As a Bonus Action, you can turn the head of this staff into that of an animate, venomous snake for 1 minute or revert the staff to its inanimate form.\n  When you take the Attack action, you can make one of the attack rolls using the animated snake head, which has a reach of 5 feet. Apply your Proficiency Bonus and Wisdom modifier to the attack roll. On a hit, the target takes 1d6 Piercing damage and 3d6 Poison damage.\n  The snake head can be attacked while it is animate. It has AC 15, HP 20, and Immunity to Poison and Psychic damage. If the head drops to 0 Hit Points, the staff is destroyed. As long as itâ€™s not destroyed, the staff regains all lost Hit Points when it reverts to its inanimate form.",
 	attunement: true,
 	weight: 4,
 	action: [["bonus action", " (animate/end)"]],
@@ -983,7 +983,7 @@ MagicItemsList["staff of the magi"] = { // contains contributions by Pengsloth
 	rarity: "legendary",
 	magicItemTable: "?",
 	description: "This staff has 50 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it and gives Advantage on saving throws against spells. As a Reaction, you can absorb a spell targeting only you, converting its spell level to charges and cancelling its effect. If this brings it over 50 charges or you break it is as an action, it explodes.",
-	descriptionFull: "This staff has 50 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.\n" + toUni("Spell Absorption") + ". While holding the staff, you have Advantage on saving throws against spells. In addition, you can take a Reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell’s level. However, if doing so brings the staff’s total number of charges above 50, the staff explodes as if you activated its Retributive Strike (see below)..\n   " + toUni("Spells") + ". While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell: Arcane Lock (0 charges), Conjure Elemental (7 charges), Detect Magic (0 charges), Dispel Magic (3 charges), Enlarge/Reduce (0 charges), Fireball (7th-level version, 7 charges), Flaming Sphere (2 charges), Ice Storm (4 charges), Invisibility (2 charges), Knock (2 charges), Light (0 charges), Lightning Bolt (7th-level version, 7 charges), Mage Hand (0 charges), Passwall (5 charges), Plane Shift (7 charges), Protection from Evil and Good (0 charges), Telekinesis (5 charges), Wall of Fire (4 charges), or Web (2 charges).\n " + toUni("Retributive Strike") + ". You can take a Magic action to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that fills a 30-foot Emanation originating from itself. You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take Force damage equal to 16 \xD7 the number of charges in the staff. Each other creature in the area makes a DC 17 Dexterity saving throw. On a failed save, a creature takes Force damage equal to 6 \xD7 the number of charges in the staff. On a successful save, a creature takes half as much damage.\n\n" + "The staff regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 20, the staff regains 1d12 + 1 charges.",
+	descriptionFull: "This staff has 50 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.\n" + toUni("Spell Absorption") + ". While holding the staff, you have Advantage on saving throws against spells. In addition, you can take a Reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spellâ€™s level. However, if doing so brings the staffâ€™s total number of charges above 50, the staff explodes as if you activated its Retributive Strike (see below)..\n   " + toUni("Spells") + ". While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell: Arcane Lock (0 charges), Conjure Elemental (7 charges), Detect Magic (0 charges), Dispel Magic (3 charges), Enlarge/Reduce (0 charges), Fireball (7th-level version, 7 charges), Flaming Sphere (2 charges), Ice Storm (4 charges), Invisibility (2 charges), Knock (2 charges), Light (0 charges), Lightning Bolt (7th-level version, 7 charges), Mage Hand (0 charges), Passwall (5 charges), Plane Shift (7 charges), Protection from Evil and Good (0 charges), Telekinesis (5 charges), Wall of Fire (4 charges), or Web (2 charges).\n " + toUni("Retributive Strike") + ". You can take a Magic action to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that fills a 30-foot Emanation originating from itself. You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take Force damage equal to 16 \xD7 the number of charges in the staff. Each other creature in the area makes a DC 17 Dexterity saving throw. On a failed save, a creature takes Force damage equal to 6 \xD7 the number of charges in the staff. On a successful save, a creature takes half as much damage.\n\n" + "The staff regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 20, the staff regains 1d12 + 1 charges.",
 	attunement: true,
 	weight: 4,
 	prerequisite: "Requires attunement by a sorcerer, warlock, or wizard",
@@ -1082,7 +1082,7 @@ MagicItemsList["staff of the python"] = {
 	rarity: "uncommon",
 	magicItemTable: "?",
 	description: "As a Magic action, you can throw this staff to an unoccupied space within 10 feet, transforming it to a Giant Constrictor Snake. It shares your Initiative and takes its turn immediately after you. You can command it mentally on your turn if within 60 ft. As a bonus action, you can command it to revert back to a staff. If the snake reaches 0 HP, the staff is destroyed.",
-	descriptionFull: "As a Magic action, you can throw this staff so that it lands in an unoccupied space within 10 feet of you, causing the staff to become a Giant Constrictor Snake in that space. The snake is under your control and shares your Initiative count, taking its turn immediately after yours.\n   On your turn, you can mentally command the snake (no action required) if it is within 60 feet of you and you don’t have the Incapacitated condition. You decide what action the snake takes and where it moves during its turn, or you can issue it a general command, such as to attack your enemies or guard a location. Absent commands from you, the snake defends itself.\n   As a Bonus Action, you can command the snake to revert to staff form in its current space, and you can’t use the staff’s property again for 1 hour. If the snake is reduced to 0 Hit Points, it dies and reverts to its staff form; the staff then shatters and is destroyed. If the snake reverts to staff form before losing all its Hit Points, it regains all of them.",
+	descriptionFull: "As a Magic action, you can throw this staff so that it lands in an unoccupied space within 10 feet of you, causing the staff to become a Giant Constrictor Snake in that space. The snake is under your control and shares your Initiative count, taking its turn immediately after yours.\n   On your turn, you can mentally command the snake (no action required) if it is within 60 feet of you and you donâ€™t have the Incapacitated condition. You decide what action the snake takes and where it moves during its turn, or you can issue it a general command, such as to attack your enemies or guard a location. Absent commands from you, the snake defends itself.\n   As a Bonus Action, you can command the snake to revert to staff form in its current space, and you canâ€™t use the staffâ€™s property again for 1 hour. If the snake is reduced to 0 Hit Points, it dies and reverts to its staff form; the staff then shatters and is destroyed. If the snake reverts to staff form before losing all its Hit Points, it regains all of them.",
 	attunement: true,
 	weight: 4,
 	action: [["action", " (animate)"], ["bonus action", " (end)"]]
@@ -1163,12 +1163,12 @@ MagicItemsList["staff of thunder and lightning"] = {
 	rarity: "very rare",
 	magicItemTable: "?",
 	description: "This +2 Quarterstaff has 5 special abilities that each can be used once per dawn. Both 'Lightning' and 'Thunder' can be used when I hit a melee attack with it; while 'Lightning Strike'and 'Thunderclap' require a Magic action to use. See the Notes page for what all of these abilities entail.",
-	descriptionFull: "This staff can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. It also has the following additional properties. Once one of these properties is used, it can’t be used again until the next dawn.\n   " +
+	descriptionFull: "This staff can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. It also has the following additional properties. Once one of these properties is used, it canâ€™t be used again until the next dawn.\n   " +
 		toUni("Lightning") + ". When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 Lightning damage (no action required).\n   " +
 		toUni("Thunder") + ". When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet (no action required). The target you hit must succeed on a DC 17 Constitution saving throw or have the Stunned condition until the end of your next turn.\n" +
 		toUni("Lightning Strike") + ". You can take a Magic action to cause a bolt of lightning to leap from the staff's tip in a Line that is 5 feet wide and 120 feet long. Each creature in that Line must make a DC 17 Dexterity saving throw, taking 9d6 Lightning damage on a failed save, or half as much damage on a successful one.\n" +
 		toUni("Thunderclap") + ". You can take a Magic action to cause the staff to produce a thunderclap audible out to 600 feet. Every creature a within 60-foot Emanation origination from you must make a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 Thunder damage and has the Deafened condition for 1 minute. On a successful save, a creature takes half damage and isn't deafened.\n " +
-		toUni("Thunder and Lightning") + ". Thunder and Lightning. Immediately after you hit with a melee attack using the staff, you can take a Bonus Action to use the Lightning and Thunder properties (see above) at the same time. Doing so doesn’t expend the daily use of those properties, only the use of this one.",
+		toUni("Thunder and Lightning") + ". Thunder and Lightning. Immediately after you hit with a melee attack using the staff, you can take a Bonus Action to use the Lightning and Thunder properties (see above) at the same time. Doing so doesnâ€™t expend the daily use of those properties, only the use of this one.",
 	attunement: true,
 	weight: 4,
 	action: [["action", "Staff of T\u0026L Lightning Strike, Thunderclap"], ["bonus action", "Thunder and Lighting"]],
@@ -1208,9 +1208,9 @@ MagicItemsList["staff of thunder and lightning"] = {
 			"\n   This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.",
 			" \u2022 Lightning. When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 Lightning damage (no action required).",
 			" \u2022 Thunder. When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder audible out to 300 feet (no action required). The target you hit must succeed on a DC 17 Constitution saving throw or have the Stunned condition until the end of your next turn.",
-			" \u2022 Lightning Strike. You can take a Magic action to cause a bolt of lightning to leap from the staff’s tip in a Line that is 5 feet wide and 120 feet long. Each creature in that Line makes a DC 17 Dexterity saving throw, taking 9d6 Lightning damage on a failed save or half as much damage on a successful one.",
+			" \u2022 Lightning Strike. You can take a Magic action to cause a bolt of lightning to leap from the staffâ€™s tip in a Line that is 5 feet wide and 120 feet long. Each creature in that Line makes a DC 17 Dexterity saving throw, taking 9d6 Lightning damage on a failed save or half as much damage on a successful one.",
 			" \u2022 Thunderclap. You can take a Magic action to cause the staff to produce a thunderclap audible out to 600 feet. Every creature within a 60-foot Emanation originating from you makes a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 Thunder damage and has the Deafened condition for 1 minute. On a successful save, a creature takes half as much damage only.",
-			" \u2022 Thunder and Lightning. Immediately after you hit with a melee attack using the staff, you can take a Bonus Action to use the Lightning and Thunder properties (see above) at the same time. Doing so doesn’t expend the daily use of those properties, only the use of this one.",
+			" \u2022 Thunder and Lightning. Immediately after you hit with a melee attack using the staff, you can take a Bonus Action to use the Lightning and Thunder properties (see above) at the same time. Doing so doesnâ€™t expend the daily use of those properties, only the use of this one.",
 		].join("\n")
 	}]
 };
@@ -1243,7 +1243,7 @@ MagicItemsList["stone of controlling earth elementals"] = {
 	rarity: "rare",
 	magicItemTable: "?",
 	description: "While touching this 5-pound stone to the ground, you can take a Magic action to summon an Earth Elemental. It appears in an unoccupied space you choose within 30-ft of yourself, obeys your commands, and its turn is immediately after yours. It disappears after 1 hour, when it dies, or when dismissed as a Bonus Action. The stone can't be used this way again until the next dawn.",
-	descriptionFull: "While touching this 5-pound stone to the ground, you can take a Magic action to summon an Earth Elemental. The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The stone can’t be used this way again until the next dawn.",
+	descriptionFull: "While touching this 5-pound stone to the ground, you can take a Magic action to summon an Earth Elemental. The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The stone canâ€™t be used this way again until the next dawn.",
 	weight: 5,
 	spellcastingBonus: {
 		name: "Earth Elemental only",
@@ -1286,7 +1286,7 @@ MagicItemsList["sun blade"] = {
 	magicItemTable: "?",
 	attunement: true,
 	description: "As a Bonus Action, you can have this hilt create a blade of radiance. While the blade exists, it acts like a magic Longsword that does +2 to attack and damage rolls, Radiant damage instead of Slashing (+1d8 to undead), has Finesse, emits Bright Light in a 15-ft radius and Dim Light in another 15 ft. You can take a Magic action, I can change the light's radius by 5 ft for each (Bright/Dim) to a maximum of 30 ft each or min of 10ft.",
-	descriptionFull: "This item appears to be a longsword hilt.\n" + toUni("Blade of Radiance") + ". While grasping the hilt, you can take a Bonus Action to cause a blade of pure radiance to spring into existence or make the blade disappear. While the blade exists, this magic weapon functions as a Longsword with the Finesse property. If you are proficient with Longswords or Shortswords, you are proficient with the Sun Blade..\n   You gain a +2 bonus to attack rolls and damage rolls made with this weapon, which deals Radiant damage instead of Slashing damage. When you hit an Undead with it, that target takes an extra 1d8 Radiant damage.\n" + toUni("Sunlight") + ". The sword’s luminous blade emits Bright Light in a 15-foot radius and Dim Light for an additional 15 feet. The light is sunlight. While the blade persists, you can take a Magic action to expand or reduce its radius of Bright Light and Dim Light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.",
+	descriptionFull: "This item appears to be a longsword hilt.\n" + toUni("Blade of Radiance") + ". While grasping the hilt, you can take a Bonus Action to cause a blade of pure radiance to spring into existence or make the blade disappear. While the blade exists, this magic weapon functions as a Longsword with the Finesse property. If you are proficient with Longswords or Shortswords, you are proficient with the Sun Blade..\n   You gain a +2 bonus to attack rolls and damage rolls made with this weapon, which deals Radiant damage instead of Slashing damage. When you hit an Undead with it, that target takes an extra 1d8 Radiant damage.\n" + toUni("Sunlight") + ". The swordâ€™s luminous blade emits Bright Light in a 15-foot radius and Dim Light for an additional 15 feet. The light is sunlight. While the blade persists, you can take a Magic action to expand or reduce its radius of Bright Light and Dim Light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.",
 	weight: 3,
 	action: [["bonus action", "(BladeofRadiance"], ["action", " (change light)"]],
 	weaponsAdd: ["Sun Blade"],
@@ -1339,7 +1339,7 @@ MagicItemsList["sword of life stealing"] = {
 	magicItemTable: "?",
 	attunement: true,
 	description: "When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 15 Necrotic damage if it isn't a Construct or an Undead. Gain Temporary HP equal to amount of Necrotic damage taken.",
-	descriptionFull: "When you attack a creature with this magic weapon and roll a 20 on the d20 for the attack roll, that target takes an extra 15 Necrotic damage if it isn’t a Construct or an Undead, and you gain Temporary Hit Points equal to the amount of Necrotic damage taken.",
+	descriptionFull: "When you attack a creature with this magic weapon and roll a 20 on the d20 for the attack roll, that target takes an extra 15 Necrotic damage if it isnâ€™t a Construct or an Undead, and you gain Temporary Hit Points equal to the amount of Necrotic damage taken.",
 	chooseGear: {
 		type: "weapon",
 		prefixOrSuffix: "prefix",
