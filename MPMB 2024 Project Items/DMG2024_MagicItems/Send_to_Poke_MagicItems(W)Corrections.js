@@ -16,7 +16,7 @@ MagicItemsList["lute of thunderous thumping"] = {
 	magicItemTable: "?",
 	description: "This reinforced lute can be wielded as a magic Club that deals an extra 2d8 Thunder damage on a hit.",
 	descriptionLong: "This reinforced lute can be wielded as a magic Club that deals an extra 2d8 Thunder damage on a hit.\n If you're a bard, you can use your CHA modifier instead of your Str Mod when making a melee attack roll provided that you sing or hum while making the attack.",
-	descriptionFull: "This reinforced lute can be wielded as a magic Club that deals an extra 2d8 Thunder damage on a hit.\n\n" + toUni("Sing and Swing") + "If you’re a Bard, you can use your Charisma modifier instead of your Strength modifier when making a melee attack roll with the lute, provided you sing or hum while making the attack.",
+	descriptionFull: "This reinforced lute can be wielded as a magic Club that deals an extra 2d8 Thunder damage on a hit.\n\n" + toUni("Sing and Swing") + "If youâ€™re a Bard, you can use your Charisma modifier instead of your Strength modifier when making a melee attack roll with the lute, provided you sing or hum while making the attack.",
 	weight: 1,
 	weaponsAdd: "Lute of Thunderous Thumping",
 	weaponOptions: {
@@ -45,7 +45,7 @@ MagicItemsList["lute of thunderous thumping"] = {
 	},
 	toNotesPage: [{
 		name: "Sing and Swing",
-		note: "If you’re a Bard, you can use your Charisma modifier instead of your Strength modifier when making a melee attack roll with the lute, provided you sing or hum while making the attack.",
+		note: "If youâ€™re a Bard, you can use your Charisma modifier instead of your Strength modifier when making a melee attack roll with the lute, provided you sing or hum while making the attack.",
 	}],
 };
 MagicItemsList["wand of binding"] = {
@@ -152,7 +152,7 @@ MagicItemsList["wand of fireballs"] = {
 	rarity: "rare",
 	magicItemTable: "?",
 	description: "This wand has 7 charges, regaining 1d6+1 at dawn. You can expend 1 to 3 charges to cast Fireball (save DC 15) from it as a 3rd level spell. The spell level increases by one for each charge expended. When the last charge is used, roll 1d20. On a 1, the wand crumbles into ashes.",
-	descriptionFull: "This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Fireball (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell’s level by 1 for each additional charge you expend.\n" +
+	descriptionFull: "This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Fireball (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spellâ€™s level by 1 for each additional charge you expend.\n" +
 		toUni("Regaining Charges") + ". The wand regains 1d6 + 1 expended charges daily at dawn.If you expend the wand's last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.",
 	attunement: true,
 	weight: 1,
@@ -444,7 +444,7 @@ MagicItemsList["wand of wonder"] = {
 	magicItemTable: "?",
 	description: "This wand has 7 charges and regains 1d6+1 expended charges daily at dawn. If you expend its last charge, roll 1d20. On a 1, the wand crumbles into dust and is destroyed. While holding it, you can expend 1 charge, choose a point within 120 ft, and roll 1d100 to see what happens, SEE NOTES.",
 	descriptionFull: "This wand has 7 charges. While holding it, you can take a Magic action to expend 1 charge while choosing a point within 120 feet of yourself. That location becomes the point of origin of a spell or other magical effect determined by rolling on the Wand of Wonder Effects table.\n" +
-		"Spells cast from the wand have a save DC of 15. If a spell’s maximum range is normally less than 120 feet, it becomes 120 feet when cast from the wand. If an effect has multiple possible subjects, the DM determines randomly which among them are affected.\n " +
+		"Spells cast from the wand have a save DC of 15. If a spellâ€™s maximum range is normally less than 120 feet, it becomes 120 feet when cast from the wand. If an effect has multiple possible subjects, the DM determines randomly which among them are affected.\n " +
 		toUni("Regaining Charges") + ". The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.\n" + [
 			toUni("1d100\t\tEffect"),
 			"01-20\tRoll a 1d10:",
@@ -497,7 +497,7 @@ MagicItemsList["wand of wonder"] = {
 			"36-40: Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius Cylinder centered on the chosen point of origin. During that time, the area of effect is Lightly Obscured.",
 			"41-45: A cloud of 600 oversized butterflies fills a 60-foot-high, 30-foot-radius Cylinder centered on the chosen point of origin. The butterflies remain for 10 minutes, during which time the area of effect is Heavily Obscured.",
 			"46-50: You cast Lightning Bolt. The Line created by the spell extends from you to the chosen point of origin.",
-			"51-55: The creature closest to the chosen point of origin is enlarged as if you had cast Enlarge/Reduce on it. If the target isn’t you and can’t be affected by that spell, you become the target instead.",
+			"51-55: The creature closest to the chosen point of origin is enlarged as if you had cast Enlarge/Reduce on it. If the target isnâ€™t you and canâ€™t be affected by that spell, you become the target instead.",
 			"56-60: A magically formed creature appears in an unoccupied space as close to the chosen point as possible. The creature isn't under your control, acts as it normally would, and disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4: 1: Rhinoceros, 2: Elephant, 3-4: Rat.",
 			"61-64: Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute.",
 			"65-68: An object of the DM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the target, and no larger than 10 feet in any dimension.",
@@ -533,11 +533,11 @@ var DMG_waveFullDescription = [
 	"\u2022Combat Ready. You have Advantage on Initiative rolls.",
 	"\u2022Underwater Adaptation. A bubble of air forms around your head while you are underwater, allowing you to breathe normally in that environment.",
 	"\u2022Aquatic Command. Wave has 3 charges and regains 1d3 expended charges daily at dawn. While you carry it, you can expend 1 charge to cast Dominate Beast (save DC 20) from it on a Beast that has a Swim Speed.",
-	"\u2022Globe of Invulnerability. While holding Wave, you can cast the level 9 version of Globe of Invulnerability from it. Once used, this property can’t be used again until the next dawn.",
+	"\u2022Globe of Invulnerability. While holding Wave, you can cast the level 9 version of Globe of Invulnerability from it. Once used, this property canâ€™t be used again until the next dawn.",
 	"\u2022Sentience. Wave is a sentient weapon of Neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and Darkvision out to 120 feet.",
 	"The weapon communicates telepathically with its wielder and speaks Aquan.",
-	"\u2022Personality. Wave zealously encourages mortals to worship sea gods and has a habit of humming sea chanteys. Conflict arises if the wielder fails to further the weapon’s objectives in the world.",
-	"\u2022Destroying Wave. Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a storm giant or someone imbued with a storm giant’s strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.",
+	"\u2022Personality. Wave zealously encourages mortals to worship sea gods and has a habit of humming sea chanteys. Conflict arises if the wielder fails to further the weaponâ€™s objectives in the world.",
+	"\u2022Destroying Wave. Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a storm giant or someone imbued with a storm giantâ€™s strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.",
 ];
 MagicItemsList["wave"] = {
 	name: "Wave",
@@ -594,7 +594,7 @@ MagicItemsList["wave"] = {
 		},
 		//Spell Level Header cannot be changed from here per MPMB 
 		"globe of invulnerability": {
-			description: "Level 9: Any spell of level 9 or lower cast from outside the barrier can’t affect anything within it.",
+			description: "Level 9: Any spell of level 9 or lower cast from outside the barrier canâ€™t affect anything within it.",
 			changes: "Change from level 6 to level 9"
 		},
 	},
@@ -608,7 +608,7 @@ MagicItemsList["weapon of warning"] = {
 	magicItemTable: "?",
 	description: "While this weapon is within your reach, and you are attuned to it, you and your allies within 30 ft magically awaken when combat begin, unless a magically induced sleep. You also have Advantage on Inititative rolls.",
 	descriptionFull: "As long as this weapon is within your reach and you are attuned to it, you and allies within 30 feet of you gain the following benefits.\n\n" +
-		"\u2022Alarm. The weapon magically awakens each subject who is sleeping naturally when combat begins. This benefit doesn’t wake a subject from magically induced sleep.\n" +
+		"\u2022Alarm. The weapon magically awakens each subject who is sleeping naturally when combat begins. This benefit doesnâ€™t wake a subject from magically induced sleep.\n" +
 		"\u2022Supernatural Readiness. Each subject has Advantage on its Initiative rolls.",
 	attunement: true,
 	chooseGear: {
@@ -680,7 +680,7 @@ MagicItemsList["wings of flying"] = {
 	rarity: "rare",
 	magicItemTable: "?",
 	description: "While wearing this cloak, you can take a Magic action to turn the cloak into a pair of wings on your back. The wings last for 1 hour or until you end the affect early as a Magic action. The wings give a flying speed of 60 ft. When they disappear, you can't use them again for 1d12 hours.",
-	descriptionFull: "While wearing this cloak, you can take a Magic action to turn the cloak into a pair of wings on your back. The wings lasts for 1 hour or until you end the effect early as a Magic action. The wings give you a Fly Speed of 60 feet. If you are aloft when the wings disappear, you fall. When the wings disappear, you can’t use them again for 1d12 hours.",
+	descriptionFull: "While wearing this cloak, you can take a Magic action to turn the cloak into a pair of wings on your back. The wings lasts for 1 hour or until you end the effect early as a Magic action. The wings give you a Fly Speed of 60 feet. If you are aloft when the wings disappear, you fall. When the wings disappear, you canâ€™t use them again for 1d12 hours.",
 	attunement: true,
 	action: [["action", " (start/stop)"]],
 	usages: 1,
@@ -692,8 +692,8 @@ MagicItemsList["wraps of unarmed power"] = {
 	source: [["D24", 325]],
 	magicItemTable: "?",
 	type: "wondrous item",
-	description: "While wearing these wraps, you have a bonus to attack rolls and damage rolls made with your Unarmed Strikes. The bonus is determined by the wraps’ rarity, and those strikes deal your choice of Force damage or their normal damage type. The bonus is determined by rarity: uncommon (+1), rare (+2), or very rare (+3).",
-	descriptionFull: "While wearing these wraps, you have a bonus to attack rolls and damage rolls made with your Unarmed Strikes. The bonus is determined by the wraps’ rarity, and those strikes deal your choice of Force damage or their normal damage type. Rarity/Bonus: uncommon (+1), rare (+2), or very rare (+3).",
+	description: "While wearing these wraps, you have a bonus to attack rolls and damage rolls made with your Unarmed Strikes. The bonus is determined by the wrapsâ€™ rarity, and those strikes deal your choice of Force damage or their normal damage type. The bonus is determined by rarity: uncommon (+1), rare (+2), or very rare (+3).",
+	descriptionFull: "While wearing these wraps, you have a bonus to attack rolls and damage rolls made with your Unarmed Strikes. The bonus is determined by the wrapsâ€™ rarity, and those strikes deal your choice of Force damage or their normal damage type. Rarity/Bonus: uncommon (+1), rare (+2), or very rare (+3).",
 	choices: ["+1 Wraps of Unarmed Power (uncommon)", "+2 Wraps of Unarmed Power (rare)", "+3 Wraps of Unarmed Power (very rare)"],
 	"+1 wraps of unarmed power (uncommon)": {
 		name: "Wraps of Unarmed Power +1",
